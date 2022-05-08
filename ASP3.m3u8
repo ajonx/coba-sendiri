@@ -1,6 +1,5 @@
 #EXTM3U  
 
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:0, ASP3
 https://uload.ru.com/cdn/premium125/chunks.m3u8
