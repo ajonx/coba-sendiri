@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-PLAYLIST-TYPE:EVENT  
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="https://mrpw.ptmnc01.verspective.net",DEVICEID=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1,KEYFORMAT="widevine",KEYFORMATVERSION="1" 
-#EXTINF:0, INDOSIAR
-https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
